@@ -205,7 +205,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-<<<<<<< HEAD
-=======
 EXPLAIN.md
->>>>>>> 315887a (feat: initial commit for British Airways Data Science Project)
